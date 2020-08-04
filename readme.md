@@ -27,6 +27,7 @@ setSize(int): void
   * TC07 => ตัวอักษรที่ write ใน buffer ต้อง read ถูกต้องเช่น write เป็น A ต้อง read ได้ A
 
   
-  
+  ## workshop-04
+  Solve if-else point duplicate 
 
   
